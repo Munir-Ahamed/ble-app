@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bletest</string>
+    <string name="button">Button</string>
+    <string name="ble_test">BLE test</string>
+</resources>
